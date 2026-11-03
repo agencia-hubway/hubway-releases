@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "package": "https://github.com/agencia-hubway/hubway-releases/releases/download/hubway-mcp-0.2.1/hubway-mcp-0.2.1.zip",
+  "version": "0.2.2",
+  "package": "https://github.com/agencia-hubway/hubway-releases/releases/download/hubway-mcp-0.2.2/hubway-mcp-0.2.2.zip",
   "requires": "6.9",
   "requires_php": "8.1"
 }
