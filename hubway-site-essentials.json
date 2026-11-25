@@ -1,6 +1,6 @@
 {
-  "version": "1.10.2",
-  "package": "https://github.com/agencia-hubway/hubway-releases/releases/download/hubway-site-essentials-1.10.2/hubway-site-essentials-1.10.2.zip",
+  "version": "1.10.3",
+  "package": "https://github.com/agencia-hubway/hubway-releases/releases/download/hubway-site-essentials-1.10.3/hubway-site-essentials-1.10.3.zip",
   "requires": "",
   "requires_php": ""
 }
